@@ -9,7 +9,7 @@ Source Code and Compiled Web Build can be Downloaded From the Releases Tab (LATE
 ### Current Issues
 There are Issues, such as:
 - Color Palettes don't display correctly or at all
-- Changing Resolution or Applying Fullscreen causes bad Scaling
+- Changing Resolution or Applying Fullscreen causes Scaling Issues
 
 > This is currently the ONLY port I've made that has sound working
 
