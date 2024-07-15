@@ -29,7 +29,7 @@ There are Issues, such as:
 
 ```C:\Users\ (YOUR USER) \AppData\Local\GameMakerStudio2\GMS2TEMP```
 
-    - In where you will find folders called `PizzaTower_CHEESEDUP_( SOME NUMBERS )_VM`
+    - In where you will find folders called `indigo_( SOME NUMBERS )_VM`
     - Steal the `/runner` sub-directory from the most recent one, as that folder contains the important files
 - After that, you have the compilied files ready for use in a server
 
