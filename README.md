@@ -1,15 +1,17 @@
 # Pizza Tower Scoutdigo Web Port
 A Web Port of the Pizza Tower Mod Scoutdigo (v1.2) to the Web Browser
 
-(Gonna update this rq)
+Demo Site: https://www.autistici.org/burnedprojects/scoutdigo/runner.html
+> If you played one of my ports before and changed screen resolution, delete your site cache
 
 ## Downloads
-Source Code and Compiled Web Build can be Downloaded From the Releases Tab (LATER)
+Source Code and Compiled Web Build can be Downloaded From the Releases Tab
 
 ### Current Issues
 There are Issues, such as:
 - Color Palettes don't display correctly or at all
 - Changing Resolution or Applying Fullscreen causes Scaling Issues
+- Audio plays Only on the Right Speaker
 
 > This is currently the ONLY port I've made that has sound working
 
