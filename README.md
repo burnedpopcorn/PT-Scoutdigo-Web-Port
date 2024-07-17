@@ -11,7 +11,6 @@ Source Code and Compiled Web Build can be Downloaded From the Releases Tab
 There are Issues, such as:
 - Color Palettes don't display correctly or at all
 - Changing Resolution or Applying Fullscreen causes Scaling Issues
-- Audio plays Only on the Right Speaker
 - Bloodsauce Dungeon Displays White Screen while in Dark Rooms
 
 > This is currently the ONLY port I've made that has sound working
