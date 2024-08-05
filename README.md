@@ -1,12 +1,11 @@
 # Pizza Tower Scoutdigo Web Port
 A Web Port of the Pizza Tower Mod Scoutdigo (v1.2) to the Web Browser
 
+## ATTENTION
+This port is DISCONTINUED, which means no more updates will happen to this port
+
 Demo Site: https://www.autistici.org/burnedprojects/scoutdigo/runner.html
 > If you played one of my ports before and changed screen resolution, delete your site cache
-
-NEW DISCORD SERVER! Check it out!
-
-[![Discord Invite Link](https://theprojects.x10.mx/discord.jpg)](https://discord.gg/BJSkBEPU)
 
 ## Downloads
 Source Code and Compiled Web Build can be Downloaded From the Releases Tab
