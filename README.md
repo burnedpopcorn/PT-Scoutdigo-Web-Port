@@ -10,8 +10,10 @@ Demo Site: https://www.autistici.org/burnedprojects/scoutdigo/betterrunner.html
 Source Code and Compiled Web Build can be Downloaded From the Releases Tab
 
 ### Current Issues
-There are Issues, such as:
-- 
+
+There are issues, such as
+- none : )
+
 That's Good!
 
 ## For Compiling
