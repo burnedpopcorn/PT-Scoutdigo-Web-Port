@@ -3,7 +3,7 @@ A Web Port of the Pizza Tower Mod Scoutdigo (v1.2) to the Web Browser
 
 holy shit its back
 
-Demo Site: https://www.autistici.org/burnedprojects/scoutdigo/betterrunner.html
+Demo Site: https://www.autistici.org/burnedprojects/Scoutdigo/
 > If you played one of my ports before and changed screen resolution, delete your site cache
 
 ## Downloads
